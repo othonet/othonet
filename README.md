@@ -14,6 +14,10 @@
   <img align="center" alt="Othon-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Othon-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Othon-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Othon-ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+  <img align="center" alt="Othon-Handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
+  <img align="center" alt="Othon-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+          
   <img align="right" alt="Othon-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/58792613?v=4">
           
 </div>
