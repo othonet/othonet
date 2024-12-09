@@ -4,7 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othonet&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: flex"><br>
-  <img align="right" alt="Othon-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/58792613?v=4">
+  <!-- <img align="right" alt="Othon-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/58792613?v=4"> -->
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist Medium-Dark Skin Tone" height="200" />
   
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/FFFF00" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/0044FF" />
