@@ -1,4 +1,3 @@
-## Olá, eu sou o Othon Felipe, e (além de muito apaixonado pela profissão) sou desenvolvedor web fullstack. 👨🏽‍💻.
 <div align="center">
   <a href="https://github.com/othonet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othonet&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
